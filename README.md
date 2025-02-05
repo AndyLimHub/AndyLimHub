@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AndyLimHub
 - 👀 I’m interested in web application development 
 - 🌱 I’m currently learning Flask and React
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me Andrew.Lim@e14.io
 - 😄 Pronouns: Whatever you prefer.
 - ⚡ Fun fact: For some reason, I count stairs everywhere I go. I just like numbers
